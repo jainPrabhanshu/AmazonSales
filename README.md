@@ -1,5 +1,7 @@
 # Amazon Sales Analysis Report
 
+[Visit Github Repository for more information](https://github.com/jainPrabhanshu/AmazonSales)
+
 ## Preview of the Dashboard (Power BI Service)
 
 ![Screenshot 2024-09-11 195532](https://github.com/user-attachments/assets/fbd9686f-0e4e-4fd3-b2b9-cf0c5c6f2f64)
