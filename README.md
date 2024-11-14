@@ -88,7 +88,7 @@ You can find the dataset [Amazon Sales Dataset](https://drive.google.com/file/d/
 
 - Step 9 : Uploaded the entire Dashboard to PowerBI Service.
 
-## Key Insights from Olympics 2024 Data Analysis
+## Key Insights from Amazon Sales Data Analysis
 
 1. Top-Selling Products
     - A small percentage of products contribute to a large portion of total sales, indicating a clear set of bestsellers.
