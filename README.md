@@ -110,7 +110,7 @@ You can find the dataset [Amazon Sales Dataset](https://drive.google.com/file/d/
     - The average order value is higher for specific customer segments, such as premium customers or those in certain regions.
     - Cross-selling or bundling strategies could be used to increase AOV across lower-value customer segments.
 
-## Challenges Faced During the Olympics 2024 Project
+## Challenges Faced During the Amazon Sales Data Analysis Project
 
 1. Data Limitations:
 
